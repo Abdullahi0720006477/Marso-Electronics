@@ -1,0 +1,5 @@
+{
+  "name": "Marso Electronic",
+  "description": "A modern, responsive e-commerce storefront for an electronics store, built with React and TypeScript. Features a product catalog, shopping cart, and a Gemini-powered smart assistant for product recommendations.",
+  "requestFramePermissions": []
+}
